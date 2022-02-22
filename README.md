@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RPGMN777
 - 👀 I’m interested in anime, gaming, cars!
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript, and C++
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me N/A
 
