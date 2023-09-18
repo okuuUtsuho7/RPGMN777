@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RPGMN777
+- 👋 Hi, I’m Reiuji Utsuho
 - 👀 I’m interested in anime, gaming, cars!
 - 🌱 I’m currently learning Python, HTML, CSS, JavaScript, and C++
 - 💞️ I’m looking to collaborate on N/A
